@@ -20,4 +20,4 @@ Here are some clustering algorythms that are available at the moment:
 
 * **U can find examples of plotting results of algorythm in gnu** [right here](https://github.com/dredddddd/Cluster_analysys/tree/main/EXAMPLES)
 
-PS. Command files are [here](https://github.com/dredddddd/Cluster_analysys/tree/main/COMMAND FILES)
+PS. Command files are [here](https://github.com/dredddddd/Cluster_analysys/tree/main/COMMAND%20FILES)
