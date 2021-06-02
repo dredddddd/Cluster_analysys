@@ -3,7 +3,7 @@
 **This project is a sandbox in the field of machine learning, u can see here some clustering a**
 Here are some clustering algorythms that are available at the moment:
 * **DBSCAN**
-* **Minimal spanning tree** - can find *epsilon* for DBSCAN
+* **Spanning tree** - can find *epsilon* for DBSCAN
 * **K-means**
 * **K-means with kernels**
 * **EM-algorithm** - and produce *gif*-image with all steps
@@ -15,3 +15,5 @@ Here are some clustering algorythms that are available at the moment:
 *There are both 'client.exe' and 'server.exe' for u to look at*
 
 **If u want to see non-client-server realisation go** [there](https://github.com/dredddddd/Cluster_analysys/tree/main/non_Client_server) 
+
+**U can find examples of plotting results of algorythm in gnu** [right here](https://github.com/dredddddd/Cluster_analysys/tree/main/EXAMPLES)
