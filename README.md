@@ -12,10 +12,12 @@ Here are some clustering algorythms that are available at the moment:
 
 **U will totally need to look at *HELP.txt* so u can figure out how to put commands**
 
-**If u want to see client-server realisation go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/Client_server) 
+* **If u want to see client-server realisation go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/Client_server) 
 
 *There are both 'client.exe' and 'server.exe' for u to look at*
 
-**If u want to see non-client-server realisation go** [there](https://github.com/dredddddd/Cluster_analysys/tree/main/non_Client_server) 
+* **If u want to see non-client-server realisation go** [there](https://github.com/dredddddd/Cluster_analysys/tree/main/non_Client_server) 
 
-**U can find examples of plotting results of algorythm in gnu** [right here](https://github.com/dredddddd/Cluster_analysys/tree/main/EXAMPLES)
+* **U can find examples of plotting results of algorythm in gnu** [right here](https://github.com/dredddddd/Cluster_analysys/tree/main/EXAMPLES)
+
+PS. Command files are [here](https://github.com/dredddddd/Cluster_analysys/tree/main/COMMAND%20FILES)
