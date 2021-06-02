@@ -10,6 +10,8 @@ Here are some clustering algorythms that are available at the moment:
 * **FOREL** - 3 levels - points, centroids and centroids from centroids. Produce *gif*-image and 3 groups of clusters.
 * **Hierarchical** - the linkage criterion is *Unweighted average linkage clustering* (or *UPGMA*)
 
+**U will totally need to look at *HELP.txt* so u can figure out how to put commands**
+
 **If u want to see client-server realisation go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/Client_server) 
 
 *There are both 'client.exe' and 'server.exe' for u to look at*
