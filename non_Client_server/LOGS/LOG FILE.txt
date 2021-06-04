@@ -1,0 +1,10 @@
+Process started
+
+Entered command that could not be recognized.
+
+Entered command that could not be recognized.
+
+Generate cloud: 0 0 1 1 100 -- successfuly.
+
+Incorrect data entered.
+
