@@ -15,6 +15,7 @@ Here are some clustering algorythms that are available at the moment:
 * **If u want to see client-server realisation go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/Client_server) 
 
 *There are both 'client.exe' and 'server.exe' for u to look at*
+To use client server, at first start 'Cluster_analysys.cpp' then start 'client.cpp' print commands in command line
 
 * **If u want to see non-client-server realisation go** [there](https://github.com/dredddddd/Cluster_analysys/tree/main/non_Client_server) 
 
