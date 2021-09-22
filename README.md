@@ -1,6 +1,6 @@
 # Cluster_analysys
 
-**This project is a sandbox in the field of machine learning, u can see here some clustering a**
+**This project is a sandbox in the field of machine learning**
 Here are some clustering algorythms that are available at the moment:
 * **DBSCAN**
 * **Spanning tree** 
