@@ -18,4 +18,5 @@ K_MEANS k -- starting the k means algorithm with parameter k;
 EM k -- starting the EM algorithm with parameter k;
 FOREL R -- starting the FOREL algorithm with parameter R;
 HIERARCHY -- starting the hierarchical algorithm;
+TRIANGULATION -- strating Delaune triangulation
 FACTORS -- find factors;
