@@ -12,6 +12,8 @@ Here are some clustering algorythms that are available at the moment:
 * **FOREL** 
 * **Hierarchical** 
 
+**If u want to see EXE-file go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/EXE's%20(separated))
+
 **U will totally need to look at *HELP.txt* so u can figure out how to put commands**
 
 * **If u want to see client-server realisation go** [here](https://github.com/dredddddd/Cluster_analysys/tree/main/Client_server) 
